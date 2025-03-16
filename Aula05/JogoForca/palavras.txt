@@ -1,0 +1,20 @@
+abacaxi;Fruta  
+canguru;Animal  
+helicoptero;Transporte  
+violino;Instrumento musical  
+papiro;Material de escrita  
+saturno;Planeta  
+samurai;Guerreiro  
+esfinge;Monumento  
+oxigenio;Elemento químico  
+muralha;Construção  
+soneto;Forma de poesia  
+peixe;Vertebrado aquático  
+catedral;Edificação religiosa  
+coral;Organismo marinho  
+bumerangue;Objeto de arremesso  
+tornado;Fenômeno natural  
+termometro;Instrumento de medição
+baralho;Conjunto de cartas  
+esmeralda;Pedra preciosa  
+criptografia;Técnica de segurança  
